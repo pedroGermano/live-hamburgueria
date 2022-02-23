@@ -1,5 +1,5 @@
 <h1 align="center">
-  Reprodução do canal leovargasdev Live 02 Twitch: Rocky's Burger
+  Reprodução do canal  Live 02 Twitch: Rocky's Burger
 </h1>
 <!--
 <h2 align="center">
@@ -23,6 +23,10 @@ Dependências usadas no projeto:
 -  [Sass](https://sass-lang.com/)
 -  [TypeScript](https://www.typescriptlang.org/)
 -  [React Icons](https://react-icons.netlify.com/)
+
+## Crédito
+
+-  [leovargasdev](https://www.twitch.tv/leovargasdev)
 
 Também foi adicionado as ferramentas [**ESLint**](https://eslint.org/) e [**Prettier**](https://prettier.io/) para aumentar a produtividade e auxiliar a manter um padrão de código.
 
